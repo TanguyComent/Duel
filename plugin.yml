@@ -1,0 +1,8 @@
+name: DuelPlug
+version: 0.0.1
+author: Kitsoko
+main: fr.kitsoko.duelplug.main
+commands:
+  duel:
+    description: permet de se friter avec un joueur
+    permission: duel.use
